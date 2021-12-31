@@ -1,0 +1,168 @@
+header{
+  
+}
+
+
+header h1{
+  font-size: 70px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+header p{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: green;
+}
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+body {
+    text-align: center;
+    font-size: 1rem;
+    background: cyan;
+    
+}
+  
+  
+
+ 
+  
+body h1{
+ text-align: center;
+ font-family: fantasy;
+ color: black;
+ font-size: 3.9rem;
+}
+
+body h2{
+  text-align: center;
+  
+  
+}
+
+
+body h2 button{
+  background: olive;
+  font-size: 45px;
+  
+  
+}
+
+
+
+ table{
+  width: 93%;
+  border-collapse: collapse;
+  margin: auto;
+ 
+}
+
+
+
+  table, th, td{
+  border: solid;
+  color: black;
+  background: white;
+  font-size: 35px;
+  
+}
+
+
+  table, th{
+   background: forestgreen;
+   
+ }
+ 
+ img{
+   width: 20%;
+ }
+ 
+ 
+ .menu ul a{
+   background: olive;
+   color: white;
+   margin: 3px;
+   text-decoration: none;
+   border: 1px solid black;
+   border-radius: 20%;
+   
+ }
+ 
+ 
+ 
+ 
+ 
+ /* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: olivedrab;
+  position: fixed; 
+  border-radius: 30%;
+  top: 15; 
+  width: 100%; 
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: yellow;
+  color: black;
+}
+
+.navbar ul a{
+  
+  margin: 10px;
+  font-weight: 400;
+}
+
+
+
+
+footer{
+  font-family: cursive;
+  font-size: 2.5rem;
+}
+
+
+
+#demo{
+  font-size: 300%;
+  display: block;
+  font-family: fantasy;
+}
+
+#dem{
+  font-size: 300%;
+  display: block;
+  color: blue;
+  font-family: cursive;
+  font-weight: 700;
+ 
+}
+
+
+
